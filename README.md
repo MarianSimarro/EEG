@@ -3,10 +3,9 @@
 This repository contains Jupyter notebooks for analyzing resting-state EEG data. The analysis includes power spectral density calculation, connectivity calculations, and gradient-based approaches to understand brain dynamics.
 
 ## Features
-
-Connectivity Analysis: Calculate correlation or coherence matrices from EEG signals
-Gradient Mapping: Create gradient maps from connectivity matrices
-Visualization: Tools for visualizing EEG data and analysis results
+- Connectivity Analysis: Calculate correlation or coherence matrices from EEG signals
+- Gradient Mapping: Create gradient maps from connectivity matrices
+- Visualization: Tools for visualizing EEG data and analysis results
 
 ## Power Spectral Density (PSD) Analysis
 This script computes the power spectral density (PSD) of EEG data, allowing analysis of frequency components. It provides insights into spectral properties and can be used for basic frequency-domain investigations.
