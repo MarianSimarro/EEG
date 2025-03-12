@@ -24,11 +24,16 @@ Computes coherence between EEG channels, offering a measure of functional connec
 Example Output:
 ![Image](https://github.com/MarianSimarro/EEG/blob/main/assets/example_connectivity.png)
 
+Example group average coherence:
+![Image](https://github.com/MarianSimarro/EEG/blob/main/assets/group_average_connectivity.png)
+
 ## Correlation Analysis
 Performs correlation analysis on EEG data, examining relationships between signals from different electrodes. Useful for investigating connectivity patterns in EEG recordings.
 
 Example Output:
 ![Image](https://github.com/MarianSimarro/EEG/blob/main/assets/example_correlation.png)
+
+Group average also possible.
 
 ## Gradient Analysis
 The repository includes tools for gradient analysis of EEG connectivity data, providing a low-dimensional representation of brain connectivity patterns. This approach leverages the BrainSpace library to map EEG connectivity patterns to cortical surfaces.
