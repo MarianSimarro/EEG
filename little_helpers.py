@@ -439,7 +439,7 @@ def extract_filled_matrices(data_filled, subjects, conditions, matrix_type):
 
 def align_filled_matrices(conn_list, ch_names):
     """
-    Align matrices without removing channels (since all have the same shape).
+    Align matrices without removing channels.
 
     Parameters:
     -----------
