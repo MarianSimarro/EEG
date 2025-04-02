@@ -43,6 +43,9 @@ Key features include:
 - Computing connectivity gradients using diffusion mapping
 - Mapping gradient values to the cortical surface
 - Visualizing the principal gradients on an interactive 3D brain model
+  
+Example Output:
+![Image](https://github.com/MarianSimarro/EEG/blob/main/assets/eo_avg_matrix_alpha.png)
 
 ## Usage
 These scripts require preprocessed EEG data and provide a basic analysis framework. They can be modified for more advanced analyses.
